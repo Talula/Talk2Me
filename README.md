@@ -1,4 +1,4 @@
 Talk2Me
 =======
 
-This extension loads a photostream of pictures loaded to flicker to a specific user by the users friends.
+A simple chrome extention built to brainwash me by my friends, inputting images into a flicker photostream appearing on the side of my screen. 
