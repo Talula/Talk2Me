@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "Talk2Me",
+  "description": "This extension loads a photostream of pictures loaded to flicker to a specific user by the users friends.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+
+    "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png",
+    "256": "icon-256.png"
+  },
+
+  "permissions": [
+    "https://secure.flickr.com/"
+  ]
+}
